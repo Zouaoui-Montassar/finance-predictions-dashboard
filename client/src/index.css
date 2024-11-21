@@ -8,4 +8,8 @@ body,
     width: 100%;
     font-family: "Inter" ,sans-serif;
     background-color: #1f2026;
+    
+}
+html{
+    overflow-y: scroll;
 }
