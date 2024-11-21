@@ -112,7 +112,7 @@ const Row2 = () => {
           </LineChart>
         </ResponsiveContainer>
       </DashboardBox>
-      <DashboardBox gridArea="e" style={{ height: "180px", minWidth: '0' }}>
+      <DashboardBox gridArea="e" style={{ height: "185px", minWidth: '0' }}>
         <BoxHeader title="Campaigns and Targets" sideText="+4%" />
         <FlexBetween mt="0.25rem" gap="1.5rem" pr="1rem">
           <PieChart
