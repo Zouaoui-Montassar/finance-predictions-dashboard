@@ -1,3 +1,9 @@
+## Main Functionalities
+
+- Dashboard home page : Data Visualization with Recharts ( Multiple KPIs with multiple charts )
+- Predictions page : Revenue predictions with simple linear regression
+- Loaded the data through the backend on the database
+
 
 ## Installation
 
