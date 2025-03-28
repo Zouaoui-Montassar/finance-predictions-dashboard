@@ -4,9 +4,8 @@ import { Box,Typography, useTheme } from '@mui/material'
 import { Link, useLocation } from 'react-router-dom'
 import PixIcon from '@mui/icons-material/Pix';
 
-type Props = {}
 
-const Navbar = (props: Props) => {
+const Navbar = () => {
     const { palette } = useTheme();
     const location = useLocation(); 
     const selected = location.pathname === "/predictions" ? "predictions" : "dashboard";
